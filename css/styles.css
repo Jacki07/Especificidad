@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(0, 132, 255);
+}
+
+.caja1{ 
+   height: 100vh;
+}
+h1{
+    text-align: center;
+}
+
+.caja2{
+    height: 30vh;
+    position: relative;
+    left: 45vw;
+    top: 50vh;
+
+}
+
+.caja3{
+    height: 30vh;
+    position: relative;
+    
+}
